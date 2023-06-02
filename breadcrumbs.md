@@ -1,3 +1,8 @@
+breadcrumb generator
+
+- sidste er ikke et link
+- de får et array med name/link objekter
+
 ```js
 const bc = [
   { name: "Hvidevarer", link: "/hvidevarer" },
